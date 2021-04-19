@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2012\Projects\Pertemuan1_51417266\Pertemuan1_51417266\bin\Pertemuan1_51417266.dll
+c:\users\admin\documents\visual studio 2012\Projects\Pertemuan1_51417266\Pertemuan1_51417266\bin\Pertemuan1_51417266.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Pertemuan1_51417266\Pertemuan1_51417266\obj\Debug\Pertemuan1_51417266.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Pertemuan1_51417266\Pertemuan1_51417266\obj\Debug\Pertemuan1_51417266.dll
+c:\users\admin\documents\visual studio 2012\Projects\Pertemuan1_51417266\Pertemuan1_51417266\obj\Debug\Pertemuan1_51417266.pdb
